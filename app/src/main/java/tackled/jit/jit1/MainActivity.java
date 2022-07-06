@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         etNumber2 = findViewById(R.id.editTextNumber2);
         tvResult = findViewById(R.id.textViewResult);
     }
+    
 
 
 
